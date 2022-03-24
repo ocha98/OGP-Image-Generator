@@ -2,7 +2,7 @@
 指定された背景画像の上下左右中央部分に文字を挿入します。出力はデフォルトで`png`、オプションで`jpg`を出力できます
 
 以下の記事を元に作成しています。  
-[【Node.js】OGP用の画像をCanvasで生成する-お茶の葉](https:)
+[【Node.js】OGP用の画像をCanvasで生成する-お茶の葉](https://www.ochappa.net/posts/ogp-canvas)
 
 # ディレクトリ構成
 | ディレクトリ | 役割 |
