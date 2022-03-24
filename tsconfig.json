@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "target": "ESNext",
+      "sourceMap": false,
+      "types": [
+        "node"
+      ],
+      "outDir": "build",
+      "rootDir": "src",
+      "moduleResolution": "Node"
+    },
+    "include": [
+      "src/**/*.ts"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
